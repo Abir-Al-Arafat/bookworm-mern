@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 .env
+server/access.log
 
 # Editor directories and files
 .vscode/*
