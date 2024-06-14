@@ -1,0 +1,7 @@
+.books-container{
+    min-height: 50vh;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-column-gap: 3rem;
+    grid-row-gap: 5rem;
+}
